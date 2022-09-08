@@ -1,5 +1,5 @@
 
-    # ksljghfs
+    # ReadMeGEn
       undefined
       
   ---
@@ -13,7 +13,7 @@
     7. [Tests](#tests)
   ---  
   ## Description
-    sdffdhgd  
+    Short Description - fun info - interesting  
     User Story  
     
     undefined  
@@ -22,10 +22,10 @@
         
   ---
   ## Installation
-    sfsdff
+    step 1 -- step 2 -- step 3
   ---
   ## Usage
-    sdfsdgsdfg  
+    image  
 
     md
     ![alt text](assets/images/screenshot.png)
@@ -35,7 +35,7 @@
     undefined
   ---
   ##  Contribution
-    sfsdfaf
+    N/A
   ---
   ##  Tests
-    afasfdgfdg
+    N/A
